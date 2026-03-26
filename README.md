@@ -10,3 +10,5 @@ The service will support:
 - List all customers
 
 The project also includes DevOps practices such as GitHub project planning, backlog refinement, and sprint planning.
+# Build Status
+![Build Status](https://github.com/BayaZele/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
